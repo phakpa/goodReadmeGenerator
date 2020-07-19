@@ -1,10 +1,10 @@
 [![License](https://img.shields.io/badge/license-unlicense-blue)](https://choosealicense.com/licenses/unlicense/)
 
-# Test Project Title
+# goodReadMeGenerator
 
 ## Description
   
-This project is about using a command line application to create a professional readMe.md file
+A command line application is used to generate a professional read me file
 
 ## Table of Contents
   
@@ -17,15 +17,15 @@ This project is about using a command line application to create a professional 
 
 ## Installation
   
-You are required to use the command line in order for the project to work
+open command line and run node index.js and follow the prompts
 
 ## Usage
   
-To create a professional readMe.md file
+to create a professional read me file
 
 ## Contributing
   
-You can contribute as much as you want to this project
+anyone can contribute to this project
 
 ## License
   
@@ -33,7 +33,7 @@ Licensed under the [The Unlicense](https://choosealicense.com/licenses/unlicense
 
 ## Tests
   
-run node index.js in your command line and follow the prompts
+open command line application run "node index.js" and follow prompt on screen
 
 ## Questions
   

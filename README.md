@@ -5,8 +5,5 @@ Command-line application is used to dynamically generate a professional README.m
 Here is the link to the Github repository. https://github.com/phakpa/goodReadmeGenerator
 
 images below ------------------------------------------------------------------------------
-![](images/weatherDash1.PNG)
-![](images/weatherDash2.PNG)
-![](images/weatherDash3.PNG)
-![](images/weatherDash4.PNG)
-![](images/weatherDash5.PNG)
+![](./Develop/images/generatedReadMe.PNG)
+![](./Develop/images/commandline.PNG)
